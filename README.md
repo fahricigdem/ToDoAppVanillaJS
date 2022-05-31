@@ -1,1 +1,1 @@
-# ToDoAppVanillaJS -->   https://fahricigdem.github.io/ToDoAppVanillaJS/
+# ToDoAppVanillaJS: https://fahricigdem.github.io/ToDoAppVanillaJS/
